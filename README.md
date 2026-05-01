@@ -20,11 +20,7 @@
 python -m pip install customtkinter pillow
 python main.py
 
----
-
-# ✅ 마지막
-
-👉 아래로 내려서
-
-```text
-Commit changes
+## 🎯 프로젝트 목표
+기숙사 내 세탁기 사용의 비효율성과 노쇼 문제를 해결하기 위해  
+날짜 및 시간 기반 예약 시스템과 패널티 기능을 구현하여  
+사용자 편의성과 운영 효율성을 향상시키는 것을 목표로 합니다.
