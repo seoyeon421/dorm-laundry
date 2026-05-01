@@ -19,3 +19,12 @@
 ```bash
 python -m pip install customtkinter pillow
 python main.py
+
+---
+
+# ✅ 마지막
+
+👉 아래로 내려서
+
+```text
+Commit changes
